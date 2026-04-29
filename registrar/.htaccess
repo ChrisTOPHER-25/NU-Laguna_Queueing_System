@@ -1,6 +1,0 @@
-# Disable directory listing
-Options -Indexes
-
-# Redirect users to accountinglogin.php
-RewriteEngine On
-RewriteRule ^$ accountinglogin.php [L]
