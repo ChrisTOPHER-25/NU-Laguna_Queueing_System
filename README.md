@@ -1,18 +1,16 @@
 # NU LAGUNA: QUEUEING SYSTEM
 
-<p align="center"><a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="400" alt="PHP Logo"></a></p>
+![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
 
+## Requirements
 
-XAMPP Version: Recent
+- XAMPP Version: Recent
 
-Setup:
+## Setup
 
-<ul>
-<li>1. Clone project</li>
-<li>3. Copy and paste Source Code to the htdocs</li>
-<li>4. Run the XAMPP Server (Apache, MySQL)</li>
-<li>5. Open the Browser"</li>
-<li>6. Write localhost/phpmyadmin"</li>
-<li>7. Insert the Database"</li>
-<li>8. Write localhost/NUL-Queue to Run the System"</li>
-</ul>
+- Clone project
+- Copy and paste Source Code to the htdocs
+- Open the Browser
+- Write localhost/phpmyadmin
+- Insert the Database
+- Write localhost/NUL-Queue to Run the System
